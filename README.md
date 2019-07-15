@@ -1,7 +1,7 @@
 # Moringa_Data_Science_Prep_W4_Independent_Project_2019_07_Josephine_Wanjiku_Python_Notebook.ipynb
 Moringa_Data_Science_Prep_W4_Independent_Project_2019_07_Josephine_Wanjiku_Python_Notebook.ipynb
 
-# {Application Name}
+# {Data Science IP Week 4}
 #### {Python Programmming Data Science Project}, {July, 2019}
 #### By **{Josephine}**
 ## Description
